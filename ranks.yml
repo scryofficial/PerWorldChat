@@ -1,0 +1,22 @@
+# Rankok konfigurációja
+alap:
+  Slot: 0
+  Material: DIAMOND
+  Name: "&aAlap Rang"
+  Lore:
+    - "&7Ez egy alap rang, amelyet megvehetsz."
+    - "&7Használati utasítás itt található."
+  Price: 500
+  Command: "lp user %player% parent set alap"
+
+elit:
+  Slot: 1
+  Material: GOLD_INGOT
+  Name: "&6Elit Rang"
+  Lore:
+    - "&7Ez egy elit rang, amelyet megvehetsz."
+    - "&7Használati utasítás itt található."
+  Price: 1000
+  Command: "lp user %player% parent set elit"
+
+# További rangok itt hozzáadhatók ugyanilyen formában
