@@ -1,0 +1,5 @@
+name: ChatByWorld
+version: 1.0
+main: org.kopter.command.blocker
+api-version: 1.18
+description: Egy plugin, amely biztosítja, hogy a chat üzenetek csak a játékos világán belül láthatók legyenek.
